@@ -33,3 +33,5 @@ Feel free to reach out if you have questions or suggestions!
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/1381aliajvand1381/sales-performance-dashboard.git
+
+##  **"To run Power BI, the Python program must be executed first.**
