@@ -25,7 +25,7 @@ Developed an interactive **Power BI** dashboard to analyze e-commerce sales perf
 
 ## 📩 Contact & Feedback
 Feel free to reach out if you have questions or suggestions!  
-📧 **Email:** ali@example.com  
+📧 **Email** : aliajvand.1@example.com 
 📍 **Location:** Tehran, Iran  
 📱 **Phone:** 09038914179  
 
